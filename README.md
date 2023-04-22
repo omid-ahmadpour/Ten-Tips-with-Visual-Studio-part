@@ -1,1 +1,1 @@
-# Ten Tips with Visual Studio Part 1
+# Ten Tips with Visual Studio
