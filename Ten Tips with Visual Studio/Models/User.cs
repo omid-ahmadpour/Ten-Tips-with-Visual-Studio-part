@@ -21,10 +21,10 @@ namespace Ten_Tips_with_Visual_Studio.Models
 
         public string Name { get; set; }
 
-        void Add(User user)
+        //void Add(User user)
 
-        {
-            // Do Something...
-        }
+        //{
+        //    // Do Something...
+        //}
     }
 }
